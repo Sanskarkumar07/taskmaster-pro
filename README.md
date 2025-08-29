@@ -148,10 +148,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+**Sanskar**
+- GitHub: [Sanskarkumar07](https://github.com/Sanskarkumar07)
+- LinkedIn: [Sanskar Kumar](https://www.linkedin.com/in/sanskarkumar07/)
+- Email: Kumarsanskarjha12@bbdec.ac.in
 
 ## 🙏 Acknowledgments
 
