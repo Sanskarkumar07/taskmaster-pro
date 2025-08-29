@@ -36,7 +36,7 @@ Before running this project, make sure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/task-manager-pro.git
+   git clone https://github.com/Sanskarkumar07/taskmaster-pro.git
    cd task-manager-pro
    ```
 
